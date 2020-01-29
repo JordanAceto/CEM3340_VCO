@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>/home/foobar/Documents/CEM3340_VCO/CEM3340_VCO.sch</source>
-    <date>Wed 29 Jan 2020 04:16:06 PM EST</date>
+    <source>/home/foobar/Documents/CEM3340_VCO/kicad_docs/CEM3340_VCO.sch</source>
+    <date>Wed 29 Jan 2020 06:35:59 PM EST</date>
     <tool>Eeschema 5.1.5-52549c5~84~ubuntu18.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1210,7 +1210,7 @@
       <uri>/usr/share/kicad/library/Transistor_BJT.lib</uri>
     </library>
     <library logical="my_parts">
-      <uri>/home/foobar/Documents/CEM3340_VCO/my_parts.lib</uri>
+      <uri>/home/foobar/Documents/CEM3340_VCO/kicad_docs/my_parts.lib</uri>
     </library>
   </libraries>
   <nets>
