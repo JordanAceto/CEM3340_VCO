@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L7908
+D Negative 1.5A 35V Linear Regulator, Fixed Output -8V, TO-220/TO-263
+K Voltage Regulator 1.5A Negative
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf
+$ENDCMP
+#
+$CMP L7912
+D Negative 1.5A 35V Linear Regulator, Fixed Output -12V, TO-220/TO-263
+K Voltage Regulator 1.5A Negative
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf
+$ENDCMP
+#
+$CMP L7915
+D Negative 1.5A 35V Linear Regulator, Fixed Output -15V, TO-220/TO-263
+K Voltage Regulator 1.5A Negative
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf
+$ENDCMP
+#
+$CMP MC7905
+D Negative 1A 35V Linear Regulator, Fixed Output -5V, TO-220/TO-263
+K Voltage Regulator 1.5A Negative
+F http://www.onsemi.com/pub/Collateral/MC7900-D.PDF
+$ENDCMP
+#
+$CMP MC7905.2
+D Negative 1A 35V Linear Regulator, Fixed Output -5.2V, TO-220/TO-263
+K Voltage Regulator 1.5A Negative
+F http://www.onsemi.com/pub/Collateral/MC7900-D.PDF
+$ENDCMP
+#
+$CMP MC7906
+D Negative 1A 35V Linear Regulator, Fixed Output -6V, TO-220/TO-263
+K Voltage Regulator 1.5A Negative
+F http://www.onsemi.com/pub/Collateral/MC7900-D.PDF
+$ENDCMP
+#
+$CMP MC7908
+D Negative 1A 35V Linear Regulator, Fixed Output -8V, TO-220/TO-263
+K Voltage Regulator 1.5A Negative
+F http://www.onsemi.com/pub/Collateral/MC7900-D.PDF
+$ENDCMP
+#
+$CMP MC7912
+D Negative 1A 35V Linear Regulator, Fixed Output -12V, TO-220/TO-263
+K Voltage Regulator 1.5A Negative
+F http://www.onsemi.com/pub/Collateral/MC7900-D.PDF
+$ENDCMP
+#
+$CMP MC7915
+D Negative 1A 35V Linear Regulator, Fixed Output -15V, TO-220/TO-263
+K Voltage Regulator 1.5A Negative
+F http://www.onsemi.com/pub/Collateral/MC7900-D.PDF
+$ENDCMP
+#
+$CMP MC7918
+D Negative 1A 35V Linear Regulator, Fixed Output -18V, TO-220/TO-263
+K Voltage Regulator 1.5A Negative
+F http://www.onsemi.com/pub/Collateral/MC7900-D.PDF
+$ENDCMP
+#
+$CMP MC7924
+D Negative 1A 40V Linear Regulator, Fixed Output -24V, TO-220/TO-263
+K Voltage Regulator 1.5A Negative
+F http://www.onsemi.com/pub/Collateral/MC7900-D.PDF
+$ENDCMP
+#
+$CMP uA7905
+D Negative 1.5A 35V Linear Regulator, Fixed Output -5V, TO-220/TO-263
+K Voltage Regulator 1.5A Negative
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf
+$ENDCMP
+#
+#End Doc Library
