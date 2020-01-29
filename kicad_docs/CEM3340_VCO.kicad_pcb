@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 59)
+    (drawings 60)
     (tracks 592)
     (zones 0)
     (modules 96)
@@ -17,7 +17,7 @@
     (33 F.Adhes user)
     (34 B.Paste user)
     (35 F.Paste user)
-    (36 B.SilkS user hide)
+    (36 B.SilkS user)
     (37 F.SilkS user)
     (38 B.Mask user)
     (39 F.Mask user)
@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.4)
+    (last_trace_width 0.25)
     (user_trace_width 0.4)
     (trace_clearance 0.2)
     (zone_clearance 0.508)
@@ -3939,6 +3939,9 @@
     )
   )
 
+  (gr_text "github.com/JordanAceto/CEM3340_VCO\nrev 0\n01/29/2020" (at 130.81 54.61) (layer B.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
+  )
   (gr_text j6 (at 82.55 76.2) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
