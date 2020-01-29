@@ -14,3 +14,7 @@
  This design does not use the built in CEM3340 pulse generator. Instead, an typical opamp circuit is used for the Pulse wave output. This is to avoid the influence of PWM on the frequency of the oscillator, which has been reported to be a problem, especially with the AS3340 versions of the chip. The built in pulse generator is disabled by tying the output to ground through a resistor, and hardwiring a negative voltage into pin 5 which permanently sets the pulse width to zero percent.
 
 ![Alt text](./pics/pcb_front.png?raw=true "Title")  ![Alt text](./pics/pcb_rear.png?raw=true "Title") 
+
+## License
+
+### CC by 4.0
