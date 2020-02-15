@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 4 4
-Title ""
+Title "CEM3340 VCO Core"
 Date "2020-01-30"
 Rev "1"
 Comp ""
@@ -574,9 +574,9 @@ $EndComp
 Wire Wire Line
 	6200 5200 6200 5350
 Text Notes 5850 2900 0    59   ~ 0
-about ???vpp
+about 3.4 vpp
 Text Notes 4350 3400 0    59   ~ 0
-about ???vpp
+about 6.8 vpp
 $Comp
 L Device:R R?
 U 1 1 5E904C46

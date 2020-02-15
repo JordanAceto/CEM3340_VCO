@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 4
-Title ""
+Title "CEM3340 VCO Waveshapers"
 Date "2020-01-30"
 Rev "1"
 Comp ""
@@ -626,7 +626,7 @@ P 2300 1400
 AR Path="/5E7D17BF" Ref="R?"  Part="1" 
 AR Path="/5E3EF2A7/5E7D17BF" Ref="R30"  Part="1" 
 F 0 "R30" V 2200 1400 50  0000 C CNN
-F 1 "???" V 2300 1400 50  0000 C CNN
+F 1 "34k" V 2300 1400 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 2230 1400 50  0001 C CNN
 F 3 "~" H 2300 1400 50  0001 C CNN
 	1    2300 1400
@@ -699,7 +699,7 @@ P 2300 3550
 AR Path="/5E7D17E2" Ref="R?"  Part="1" 
 AR Path="/5E3EF2A7/5E7D17E2" Ref="R32"  Part="1" 
 F 0 "R32" V 2200 3550 50  0000 C CNN
-F 1 "???" V 2300 3550 50  0000 C CNN
+F 1 "68k" V 2300 3550 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 2230 3550 50  0001 C CNN
 F 3 "~" H 2300 3550 50  0001 C CNN
 	1    2300 3550
@@ -849,4 +849,6 @@ Wire Wire Line
 Connection ~ 3750 4050
 Wire Wire Line
 	3750 4050 3650 4050
+Text Notes 4100 6200 0    59   ~ 0
+choose r40 and r44 to get a \n10 vpp pulse wave with an\noutput impedance of around 1k ohm
 $EndSCHEMATC
