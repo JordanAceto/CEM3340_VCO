@@ -1,8 +1,6 @@
 
 # CEM3340 based VCO PCB
 
-# Warning, this project is a work in progress!!! The schematic and pcb are unverified. When boards have been ordered, built, and tested I'll remove this warning.
-
 ## Features:
 - Sine, Triangle, Sawtooth, and variable Pulse waves simultaneously available.
 - All waveforms +/- 5vpp.
