@@ -15,6 +15,16 @@
 
 ![Alt text](./pics/pcb_front.png?raw=true "Title")  ![Alt text](./pics/pcb_rear.png?raw=true "Title") 
 
-## License
+## Status of the project:
 
-### CC by 4.0
+Revision | breadboarded | schematic | pcb layout | built and tested | documentation
+---------|--------------|-----------|------------|------------------|---------------
+1        | &#9745;      | &#9745;   | &#9745;    | &#9745;          | &#9745; 
+
+## Informal evaluation:
+
+I've built three of these, and they work well and are fairly easy to build. The dual NPN in the sine shaper is a little small, but after doing a few of them I can solder them reliably without any grief.
+
+Calibration is pretty straightforward and they tune up nicely and don't drift badly with changes in temperature. I have not done any rigorous testing, just by-ear, but I'm pretty picky about out of tune VCOs and these seem good to me so far.
+
+Overall quite happy with this VCO.

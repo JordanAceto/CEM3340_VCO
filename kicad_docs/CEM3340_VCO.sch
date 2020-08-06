@@ -801,4 +801,26 @@ Wire Wire Line
 	9000 1350 8500 1350
 Wire Wire Line
 	8500 1450 9000 1450
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5EF791CF
+P 9500 5500
+F 0 "H1" H 9600 5546 50  0000 L CNN
+F 1 "MountingHole" H 9600 5455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 9500 5500 50  0001 C CNN
+F 3 "~" H 9500 5500 50  0001 C CNN
+	1    9500 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5EF79872
+P 9500 6000
+F 0 "H2" H 9600 6046 50  0000 L CNN
+F 1 "MountingHole" H 9600 5955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 9500 6000 50  0001 C CNN
+F 3 "~" H 9500 6000 50  0001 C CNN
+	1    9500 6000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
